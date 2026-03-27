@@ -9,7 +9,7 @@
 357+ AI-powered API Tools · MCP-first · Zero-Friction API
 
 [![Website](https://img.shields.io/badge/Website-paperoffice.ai-00bcd4?style=for-the-badge&logo=globe&logoColor=white)](https://paperoffice.ai)
-[![API Docs](https://img.shields.io/badge/API_Docs-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://api.paperoffice.ai/dev/docs/postman)
+[![API Docs](https://img.shields.io/badge/API_Docs-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://api.paperoffice.ai/latest/docs/postman)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-Live-8b5cf6?style=for-the-badge&logo=zap&logoColor=white)](https://paperoffice.ai/en/developer/mcp/)
 
 </div>
@@ -29,12 +29,12 @@ PaperOffice AI is an enterprise-grade document AI platform with 357+ API tools f
 Copy this URL and paste it into **ChatGPT, Claude, Cursor, Windsurf** or any AI coding assistant:
 
 ```
-https://api.paperoffice.ai/dev/docs/postman
+https://api.paperoffice.ai/latest/docs/postman
 ```
 
 Then just tell it what you want:
 
-> *"Read this API: https://api.paperoffice.ai/dev/docs/postman — Create a function that extracts invoice data from a PDF using the OCR endpoint."*
+> *"Read this API: https://api.paperoffice.ai/latest/docs/postman — Create a function that extracts invoice data from a PDF using the OCR endpoint."*
 
 The AI reads the full documentation and writes the code. No SDK needed.
 
@@ -71,7 +71,7 @@ curl -X POST https://api.paperoffice.ai/latest/job/add \
 
 | Resource | Description |
 |----------|-------------|
-| [Postman Collection](https://api.paperoffice.ai/dev/docs/postman) | 357+ endpoints, paste into AI and code |
+| [Postman Collection](https://api.paperoffice.ai/latest/docs/postman) | 357+ endpoints, paste into AI and code |
 | [MCP Setup](https://github.com/paperoffice-ai/paperoffice-mcp-setup) | Client configs for Claude, Cursor, Windsurf |
 | [AI Cookbook](https://paperoffice.ai/en/developer/cookbook/) | Production-ready recipes & prompts |
 | [Get API Key](https://app.paperoffice.ai) | Free account, instant access |

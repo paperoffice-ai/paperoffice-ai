@@ -2,7 +2,6 @@
 
 <img src="assets/logo.png" alt="PaperOffice AI" width="200">
 
-# PaperOffice AI
 
 **Enterprise Document AI & API Platform**
 
